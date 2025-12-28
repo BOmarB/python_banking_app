@@ -63,7 +63,7 @@ This was my **first Python project** - a learning experience to understand:
 
 ### Login Screen
 ```
-![Login Screen](https://github.com/BOmarB/python_banking_app/blob/main/images/login.png)
+![Login Screen](https://github.com/BOmarB/python_banking_app/blob/main/images/home.png)
 ```
 
 ### Sign Up Screen
