@@ -63,7 +63,7 @@ This was my **first Python project** - a learning experience to understand:
 
 ### Login Screen
 ```
-<img src="images/login.png" alt="Login Screen" width="600">
+![Login Screen](https://github.com/BOmarB/python_banking_app/blob/main/images/login.png)
 ```
 
 ### Sign Up Screen
