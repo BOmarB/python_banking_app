@@ -12,7 +12,6 @@ A simple GUI banking application built with Python and Tkinter. This is a beginn
 
 - [About This Project](#-about-this-project)
 - [Features](#-features)
-- [Screenshots](#-screenshots)
 - [Technologies Used](#-technologies-used)
 - [Installation](#-installation)
 - [Usage](#-usage)
@@ -56,25 +55,6 @@ This was my **first Python project** - a learning experience to understand:
 - Responsive design with custom styling
 - Visual feedback for all operations
 - Password visibility toggle buttons
-
----
-
-## 📸 Screenshots
-
-### Login Screen
-```
-![Login Screen](https://github.com/BOmarB/python_banking_app/blob/main/images/home.png)
-```
-
-### Sign Up Screen
-```
-![Sign Up Screen](./images/signup.png)
-```
-
-### Banking Dashboard
-```
-![Banking Dashboard](./images/home.png)
-```
 
 ---
 
