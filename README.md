@@ -3,7 +3,8 @@
 A simple GUI banking application built with Python and Tkinter. This is a beginner-friendly project that demonstrates basic file operations, user authentication, and transaction management using text files as a database.
 
 ![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-learning%20project-orange.svg)
+
 
 ---
 
