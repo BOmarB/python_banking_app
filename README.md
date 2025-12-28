@@ -63,7 +63,7 @@ This was my **first Python project** - a learning experience to understand:
 
 ### Login Screen
 ```
-![login Screen](./images/login.png)
+![Login Screen](https://raw.githubusercontent.com/yourusername/banking-app/main/images/login.png)
 ```
 
 ### Sign Up Screen
