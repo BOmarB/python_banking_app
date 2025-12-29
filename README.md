@@ -52,7 +52,6 @@ This was my **first Python project** - a learning experience to understand:
 
 ### 🎨 User Interface
 - Clean, modern GUI built with Tkinter and CustomTkinter
-- Responsive design with custom styling
 - Visual feedback for all operations
 - Password visibility toggle buttons
 
